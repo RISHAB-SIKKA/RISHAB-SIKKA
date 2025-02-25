@@ -1,5 +1,4 @@
-# 💫 Hii, I'm Rishab.....
-# About Me
+# 💫 Hii, I'm Rishab..............
 🔭 I’m currently working on Jibber<br><br>🌱 I’m currently learning TypeScript, Nginx<br><br>🤝 I’m looking for help with System Design<br><br>👨‍💻 All of my projects are available at https://github.com/RISHAB-SIKKA<br><br>💬 Ask me about React.js, Node.js, Express.js, Redis, WebScokets, MongoDB, C++<br><br>📫 How to reach me https://www.linkedin.com/in/rishab-sikka-namaste-404279198/<br><br>📄 Know about my experiences https://drive.google.com/file/d/1q_RAIvvlPvrVlP-NsaImNQDuMFrSHuel/view?usp=sharing<br><br>⚡ Fun fact  Evolving Through Code and Innovation.
 
 
